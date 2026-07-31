@@ -1,0 +1,9 @@
+vsim/run/
+vsim/install/
+*.fsdb
+*.vcd
+*.wdb
+ucli.key
+vcs.log
+.Xil/
+vivado_pid*.str
